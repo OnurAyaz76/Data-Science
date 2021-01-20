@@ -1,1 +1,1 @@
-MNIST Dataset for hand written number recognition using Tensorflow in ML. More accuracy is possible with a higher memory computer. If you cannot see the HTML file you can download it as zip.
+MNIST Dataset for hand written number recognition using Tensorflow in ML. More accuracy is possible with a higher memory computer. You can download the HTML file as zip too see the coding in Jupyter notebook.
